@@ -83,11 +83,11 @@ export default function Project(props) {
                   <p className="pt-2 text-center text-lg">SIGAP - Mobile</p>
                   <p className="pt-2 text-justify text-sm indent-5">
                     SIGAP (Sistem Informasi Gabungan Administrasi Protokol) is
-                    an application developed by the DPR which aims to increase
-                    efficiency, transparency, and accuracy in managing protocol
-                    and administrative activities of DPR members. There are
-                    several applications that have been developed, one of which
-                    is this mobile application.
+                    an application developed by the DPR which aims to improve
+                    attendance and accuracy in managing the protocol and
+                    administrative activities of DPR members. There are several
+                    applications that have been developed, one of which is this
+                    mobile application.
                   </p>
                   <p className="pt-2 text-justify text-sm">
                     Programming languages used :
